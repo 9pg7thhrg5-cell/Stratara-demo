@@ -1,0 +1,5 @@
+date,account,description,amount,currency,asset_id
+2028-11-30,4000,Merchant revenue November,295410.22,USD,demo-asset-1
+2028-11-30,6100,LTSA fee November,-29166.67,USD,demo-asset-1
+2028-11-30,6200,Insurance November,-12500.00,USD,demo-asset-1
+2028-11-31,6300,Invalid date row,-100.00,USD,demo-asset-1

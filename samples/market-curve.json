@@ -1,0 +1,105 @@
+{
+ "description": "Sample long-term market curve import (synthetic).",
+ "provider": "Simulated curve provider",
+ "version": "2028-Q4",
+ "release_date": "2028-10-15",
+ "horizon_end": "2046-12-31",
+ "basis": "gross_revenue",
+ "points": [
+  {
+   "year": 2029,
+   "price": 52.0,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2030,
+   "price": 53.1,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2031,
+   "price": 54.2,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2032,
+   "price": 55.3,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2033,
+   "price": 56.4,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2034,
+   "price": 57.5,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2035,
+   "price": 58.6,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2036,
+   "price": 59.7,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2037,
+   "price": 60.8,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2038,
+   "price": 61.9,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2039,
+   "price": 63.0,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2040,
+   "price": 64.1,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2041,
+   "price": 65.2,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2042,
+   "price": 66.3,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2043,
+   "price": 67.4,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2044,
+   "price": 68.5,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2045,
+   "price": 69.6,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2046,
+   "price": 70.7,
+   "price_unit": "USD/MWh"
+  },
+  {
+   "year": 2047,
+   "price": 60,
+   "price_unit": "EUR/MWh"
+  }
+ ]
+}
